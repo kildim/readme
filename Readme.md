@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Дмитрий Килин](https://up.htmlacademy.ru/nodejs-2/5/user/997093).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Сушко](https://htmlacademy.ru/profile/id281347).
 
 ---
 
