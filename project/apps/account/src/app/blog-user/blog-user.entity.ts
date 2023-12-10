@@ -9,7 +9,7 @@ export class BlogUserEntity implements UserAuth, Entity<string> {
   public firstname: string;
   public lastname: string;
   public avatar?: string;
-  public registeredAt: Date;
+  public registeredAt: string;
   public passwordHash: string;
 
   constructor(user: UserAuth) {
