@@ -1,0 +1,757 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.1.3",
+  "deps": {},
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {
+      "store": [
+        {
+          "file": "project/apps/store/.eslintrc.json",
+          "hash": "13800677001662881425"
+        },
+        {
+          "file": "project/apps/store/jest.config.ts",
+          "hash": "3770205248704429473"
+        },
+        {
+          "file": "project/apps/store/project.json",
+          "hash": "15673167778802993501"
+        },
+        {
+          "file": "project/apps/store/src/app/app.controller.spec.ts",
+          "hash": "9499997688052526633"
+        },
+        {
+          "file": "project/apps/store/src/app/app.controller.ts",
+          "hash": "9005150069945785676"
+        },
+        {
+          "file": "project/apps/store/src/app/app.module.ts",
+          "hash": "3163250445227373966"
+        },
+        {
+          "file": "project/apps/store/src/app/app.service.spec.ts",
+          "hash": "8587461140686713758"
+        },
+        {
+          "file": "project/apps/store/src/app/app.service.ts",
+          "hash": "9967902337593410053"
+        },
+        {
+          "file": "project/apps/store/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "project/apps/store/src/main.ts",
+          "hash": "11205222914964382693"
+        },
+        {
+          "file": "project/apps/store/tsconfig.app.json",
+          "hash": "3171572500325445971"
+        },
+        {
+          "file": "project/apps/store/tsconfig.json",
+          "hash": "3490524966360018312"
+        },
+        {
+          "file": "project/apps/store/tsconfig.spec.json",
+          "hash": "11550347367511341917"
+        },
+        {
+          "file": "project/apps/store/webpack.config.js",
+          "hash": "10619490397189790225"
+        }
+      ],
+      "account": [
+        {
+          "file": "project/apps/account/.eslintrc.json",
+          "hash": "2295303304320410742"
+        },
+        {
+          "file": "project/apps/account/jest.config.ts",
+          "hash": "15848255575751945101"
+        },
+        {
+          "file": "project/apps/account/project.json",
+          "hash": "14674142324659266208"
+        },
+        {
+          "file": "project/apps/account/src/app/app.controller.spec.ts",
+          "hash": "11156443618385188612"
+        },
+        {
+          "file": "project/apps/account/src/app/app.controller.ts",
+          "hash": "9005150069945785676"
+        },
+        {
+          "file": "project/apps/account/src/app/app.module.ts",
+          "hash": "3163250445227373966"
+        },
+        {
+          "file": "project/apps/account/src/app/app.service.spec.ts",
+          "hash": "10601044450234745126"
+        },
+        {
+          "file": "project/apps/account/src/app/app.service.ts",
+          "hash": "1398463054208547248"
+        },
+        {
+          "file": "project/apps/account/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "project/apps/account/src/main.ts",
+          "hash": "14819337011353640225"
+        },
+        {
+          "file": "project/apps/account/tsconfig.app.json",
+          "hash": "17628448778285850515"
+        },
+        {
+          "file": "project/apps/account/tsconfig.json",
+          "hash": "3490524966360018312"
+        },
+        {
+          "file": "project/apps/account/tsconfig.spec.json",
+          "hash": "11550347367511341917"
+        },
+        {
+          "file": "project/apps/account/webpack.config.js",
+          "hash": "12759027257167031159"
+        }
+      ],
+      "api": [
+        {
+          "file": "project/apps/api/.eslintrc.json",
+          "hash": "13800677001662881425"
+        },
+        {
+          "file": "project/apps/api/jest.config.ts",
+          "hash": "9483968714649439783"
+        },
+        {
+          "file": "project/apps/api/project.json",
+          "hash": "16182330418106381208"
+        },
+        {
+          "file": "project/apps/api/src/app/app.controller.spec.ts",
+          "hash": "9499997688052526633"
+        },
+        {
+          "file": "project/apps/api/src/app/app.controller.ts",
+          "hash": "9005150069945785676"
+        },
+        {
+          "file": "project/apps/api/src/app/app.module.ts",
+          "hash": "3163250445227373966"
+        },
+        {
+          "file": "project/apps/api/src/app/app.service.spec.ts",
+          "hash": "8587461140686713758"
+        },
+        {
+          "file": "project/apps/api/src/app/app.service.ts",
+          "hash": "9967902337593410053"
+        },
+        {
+          "file": "project/apps/api/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "project/apps/api/src/main.ts",
+          "hash": "11205222914964382693"
+        },
+        {
+          "file": "project/apps/api/tsconfig.app.json",
+          "hash": "3171572500325445971"
+        },
+        {
+          "file": "project/apps/api/tsconfig.json",
+          "hash": "3490524966360018312"
+        },
+        {
+          "file": "project/apps/api/tsconfig.spec.json",
+          "hash": "11550347367511341917"
+        },
+        {
+          "file": "project/apps/api/webpack.config.js",
+          "hash": "10619490397189790225"
+        }
+      ],
+      "post": [
+        {
+          "file": "project/apps/post/.eslintrc.json",
+          "hash": "13800677001662881425"
+        },
+        {
+          "file": "project/apps/post/jest.config.ts",
+          "hash": "12711569252250218250"
+        },
+        {
+          "file": "project/apps/post/project.json",
+          "hash": "13690363711146898194"
+        },
+        {
+          "file": "project/apps/post/src/app/app.controller.spec.ts",
+          "hash": "9499997688052526633"
+        },
+        {
+          "file": "project/apps/post/src/app/app.controller.ts",
+          "hash": "9005150069945785676"
+        },
+        {
+          "file": "project/apps/post/src/app/app.module.ts",
+          "hash": "3163250445227373966"
+        },
+        {
+          "file": "project/apps/post/src/app/app.service.spec.ts",
+          "hash": "8587461140686713758"
+        },
+        {
+          "file": "project/apps/post/src/app/app.service.ts",
+          "hash": "9967902337593410053"
+        },
+        {
+          "file": "project/apps/post/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "project/apps/post/src/main.ts",
+          "hash": "11205222914964382693"
+        },
+        {
+          "file": "project/apps/post/tsconfig.app.json",
+          "hash": "3171572500325445971"
+        },
+        {
+          "file": "project/apps/post/tsconfig.json",
+          "hash": "3490524966360018312"
+        },
+        {
+          "file": "project/apps/post/tsconfig.spec.json",
+          "hash": "11550347367511341917"
+        },
+        {
+          "file": "project/apps/post/webpack.config.js",
+          "hash": "10619490397189790225"
+        }
+      ]
+    },
+    "nonProjectFiles": [
+      {
+        "file": ".editorconfig",
+        "hash": "2982398511463853799"
+      },
+      {
+        "file": ".eslintignore",
+        "hash": "14388797753150440555"
+      },
+      {
+        "file": ".github/workflows/check.yml",
+        "hash": "5872144641286170605"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "14760868251076070154"
+      },
+      {
+        "file": "Contributing.md",
+        "hash": "17896096933400944095"
+      },
+      {
+        "file": "Readme.md",
+        "hash": "14592585649754426015"
+      },
+      {
+        "file": "Workflow.md",
+        "hash": "17873645885097545098"
+      },
+      {
+        "file": "markup/adding-post.html",
+        "hash": "7372634261919076701"
+      },
+      {
+        "file": "markup/css/main.css",
+        "hash": "14892928891924708593"
+      },
+      {
+        "file": "markup/feed.html",
+        "hash": "5605997760454994890"
+      },
+      {
+        "file": "markup/fonts/rubik-bold.ttf",
+        "hash": "13736802351517595056"
+      },
+      {
+        "file": "markup/fonts/rubik-bold.woff",
+        "hash": "2834151125866641656"
+      },
+      {
+        "file": "markup/fonts/rubik-bold.woff2",
+        "hash": "1807603647062074584"
+      },
+      {
+        "file": "markup/fonts/rubik-light.ttf",
+        "hash": "4206359119792870213"
+      },
+      {
+        "file": "markup/fonts/rubik-light.woff",
+        "hash": "11750399217352377167"
+      },
+      {
+        "file": "markup/fonts/rubik-light.woff2",
+        "hash": "9640188790354548680"
+      },
+      {
+        "file": "markup/fonts/rubik-medium.ttf",
+        "hash": "4059692936362342642"
+      },
+      {
+        "file": "markup/fonts/rubik-medium.woff",
+        "hash": "16514981762519984219"
+      },
+      {
+        "file": "markup/fonts/rubik-medium.woff2",
+        "hash": "12206965785949031440"
+      },
+      {
+        "file": "markup/fonts/rubik-regular.ttf",
+        "hash": "11782224546469337049"
+      },
+      {
+        "file": "markup/fonts/rubik-regular.woff",
+        "hash": "16360409526714188449"
+      },
+      {
+        "file": "markup/fonts/rubik-regular.woff2",
+        "hash": "2715589231518538293"
+      },
+      {
+        "file": "markup/img/barbershop.png",
+        "hash": "5810899786229841633"
+      },
+      {
+        "file": "markup/img/barbershop@2x.png",
+        "hash": "16918863942547727153"
+      },
+      {
+        "file": "markup/img/cat.jpg",
+        "hash": "14803886347186502213"
+      },
+      {
+        "file": "markup/img/coast-adding.png",
+        "hash": "10919037732740920910"
+      },
+      {
+        "file": "markup/img/coast-medium.jpg",
+        "hash": "13093356366135154778"
+      },
+      {
+        "file": "markup/img/coast-small.png",
+        "hash": "3961276641258664193"
+      },
+      {
+        "file": "markup/img/coast.jpg",
+        "hash": "1849520572204341619"
+      },
+      {
+        "file": "markup/img/drag-and-drop.svg",
+        "hash": "2126744079019348901"
+      },
+      {
+        "file": "markup/img/error.svg",
+        "hash": "10319059910754222395"
+      },
+      {
+        "file": "markup/img/everything.svg",
+        "hash": "12199966316088612087"
+      },
+      {
+        "file": "markup/img/feed.svg",
+        "hash": "1261433335120598424"
+      },
+      {
+        "file": "markup/img/icon-arrow-right-ad.svg",
+        "hash": "18134754786276629888"
+      },
+      {
+        "file": "markup/img/icon-attach.svg",
+        "hash": "3615930964863484880"
+      },
+      {
+        "file": "markup/img/icon-close.svg",
+        "hash": "4231661380907688123"
+      },
+      {
+        "file": "markup/img/icon-comment.svg",
+        "hash": "16565140136280247173"
+      },
+      {
+        "file": "markup/img/icon-filter-link.svg",
+        "hash": "18262700510157229132"
+      },
+      {
+        "file": "markup/img/icon-filter-people.svg",
+        "hash": "9234774591321410212"
+      },
+      {
+        "file": "markup/img/icon-filter-photo.svg",
+        "hash": "7711353779640404755"
+      },
+      {
+        "file": "markup/img/icon-filter-quote.svg",
+        "hash": "6379789686688324940"
+      },
+      {
+        "file": "markup/img/icon-filter-text.svg",
+        "hash": "13674528567341676739"
+      },
+      {
+        "file": "markup/img/icon-filter-video.svg",
+        "hash": "6876987666555717840"
+      },
+      {
+        "file": "markup/img/icon-heart-active.svg",
+        "hash": "1626980596861865003"
+      },
+      {
+        "file": "markup/img/icon-heart.svg",
+        "hash": "15859870874000097353"
+      },
+      {
+        "file": "markup/img/icon-htmlacademy.svg",
+        "hash": "1213088474730285440"
+      },
+      {
+        "file": "markup/img/icon-input-password.svg",
+        "hash": "18056708845925337842"
+      },
+      {
+        "file": "markup/img/icon-input-user.svg",
+        "hash": "10939990483708492954"
+      },
+      {
+        "file": "markup/img/icon-link-arrow.svg",
+        "hash": "6841413668891478071"
+      },
+      {
+        "file": "markup/img/icon-repost.svg",
+        "hash": "63528698275903855"
+      },
+      {
+        "file": "markup/img/icon-search.svg",
+        "hash": "16803268474944351636"
+      },
+      {
+        "file": "markup/img/icon-sort.svg",
+        "hash": "12993188806882897676"
+      },
+      {
+        "file": "markup/img/icon-user.svg",
+        "hash": "8037340030396594852"
+      },
+      {
+        "file": "markup/img/icon-video-play-big.svg",
+        "hash": "4890843132463966960"
+      },
+      {
+        "file": "markup/img/link.svg",
+        "hash": "10700097510987285584"
+      },
+      {
+        "file": "markup/img/logo-vita-medium.jpg",
+        "hash": "3928118977696471313"
+      },
+      {
+        "file": "markup/img/logo-vita.jpg",
+        "hash": "1119669266143282937"
+      },
+      {
+        "file": "markup/img/logo.svg",
+        "hash": "440032193018219479"
+      },
+      {
+        "file": "markup/img/messages.svg",
+        "hash": "15295061497355144971"
+      },
+      {
+        "file": "markup/img/no-feed-bg.svg",
+        "hash": "1011322101736805836"
+      },
+      {
+        "file": "markup/img/no-games.svg",
+        "hash": "10564045671804550230"
+      },
+      {
+        "file": "markup/img/no-results.png",
+        "hash": "750657072745423347"
+      },
+      {
+        "file": "markup/img/no-results@2x.png",
+        "hash": "6175312168213691455"
+      },
+      {
+        "file": "markup/img/plus.svg",
+        "hash": "201032142752046838"
+      },
+      {
+        "file": "markup/img/pointer.png",
+        "hash": "16236983730070983791"
+      },
+      {
+        "file": "markup/img/popular.svg",
+        "hash": "12003988548292577196"
+      },
+      {
+        "file": "markup/img/quote.svg",
+        "hash": "5023764532566042105"
+      },
+      {
+        "file": "markup/img/rock-adding.png",
+        "hash": "7124306180125495478"
+      },
+      {
+        "file": "markup/img/rock-default.jpg",
+        "hash": "14746324328681245192"
+      },
+      {
+        "file": "markup/img/rock-medium.jpg",
+        "hash": "12212400069863205719"
+      },
+      {
+        "file": "markup/img/rock-small.png",
+        "hash": "13212646451024039527"
+      },
+      {
+        "file": "markup/img/rock.jpg",
+        "hash": "13674613629073940149"
+      },
+      {
+        "file": "markup/img/sort-up.svg",
+        "hash": "10321827949027044420"
+      },
+      {
+        "file": "markup/img/sprite.svg",
+        "hash": "13284806086975868347"
+      },
+      {
+        "file": "markup/img/technomart.png",
+        "hash": "16762102773513132401"
+      },
+      {
+        "file": "markup/img/technomart@2x.png",
+        "hash": "15231789065969394906"
+      },
+      {
+        "file": "markup/img/user-dropdown.svg",
+        "hash": "16511599538670099186"
+      },
+      {
+        "file": "markup/img/userpic-big.jpg",
+        "hash": "139710231523030475"
+      },
+      {
+        "file": "markup/img/userpic-elvira.jpg",
+        "hash": "3370311586942434215"
+      },
+      {
+        "file": "markup/img/userpic-larisa-small.jpg",
+        "hash": "2882301785381404218"
+      },
+      {
+        "file": "markup/img/userpic-larisa.jpg",
+        "hash": "13310386007862851186"
+      },
+      {
+        "file": "markup/img/userpic-mark.jpg",
+        "hash": "13163594758588092637"
+      },
+      {
+        "file": "markup/img/userpic-medium.jpg",
+        "hash": "3838575000886038361"
+      },
+      {
+        "file": "markup/img/userpic-petro.jpg",
+        "hash": "15619697554691986028"
+      },
+      {
+        "file": "markup/img/userpic-tanya.jpg",
+        "hash": "15663355575477185118"
+      },
+      {
+        "file": "markup/img/userpic.jpg",
+        "hash": "17489743559996347461"
+      },
+      {
+        "file": "markup/img/video-collapse.svg",
+        "hash": "7696869318577025906"
+      },
+      {
+        "file": "markup/img/video-expand.svg",
+        "hash": "6047459669181917315"
+      },
+      {
+        "file": "markup/img/video-pause.svg",
+        "hash": "671158077465970402"
+      },
+      {
+        "file": "markup/img/video-play-small.svg",
+        "hash": "8515523217814971757"
+      },
+      {
+        "file": "markup/img/view.svg",
+        "hash": "14911395754181696029"
+      },
+      {
+        "file": "markup/index.html",
+        "hash": "46982913264771625"
+      },
+      {
+        "file": "markup/js/dropzone-settings.js",
+        "hash": "5691745973299510319"
+      },
+      {
+        "file": "markup/js/main.js",
+        "hash": "3550084300020015772"
+      },
+      {
+        "file": "markup/libs/dropzone.js",
+        "hash": "12746623407397027619"
+      },
+      {
+        "file": "markup/libs/normalize-8.0.1.scss",
+        "hash": "13510262539588141358"
+      },
+      {
+        "file": "markup/login-validation.html",
+        "hash": "17042059848419824661"
+      },
+      {
+        "file": "markup/login.html",
+        "hash": "7129170625405664175"
+      },
+      {
+        "file": "markup/main.html",
+        "hash": "12982878302213519053"
+      },
+      {
+        "file": "markup/messages.html",
+        "hash": "8590263599612696218"
+      },
+      {
+        "file": "markup/modal.html",
+        "hash": "7825130602682219251"
+      },
+      {
+        "file": "markup/no-content.html",
+        "hash": "16559641297466556413"
+      },
+      {
+        "file": "markup/no-results.html",
+        "hash": "2058562598505392963"
+      },
+      {
+        "file": "markup/popular.html",
+        "hash": "425674650486905806"
+      },
+      {
+        "file": "markup/post-details.html",
+        "hash": "4728768224238626234"
+      },
+      {
+        "file": "markup/profile-likes.html",
+        "hash": "17642025553740999165"
+      },
+      {
+        "file": "markup/profile-posts.html",
+        "hash": "15313055573408079169"
+      },
+      {
+        "file": "markup/profile-subscriptions.html",
+        "hash": "16323724456922836236"
+      },
+      {
+        "file": "markup/profile.html",
+        "hash": "5367244587075252618"
+      },
+      {
+        "file": "markup/registration.html",
+        "hash": "15696276934001686800"
+      },
+      {
+        "file": "markup/search-results.html",
+        "hash": "9214131903561931315"
+      },
+      {
+        "file": "markup/uploads/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "10452591472212159926"
+      },
+      {
+        "file": "project/.editorconfig",
+        "hash": "5443105041930014821"
+      },
+      {
+        "file": "project/.eslintignore",
+        "hash": "7663861978715868291"
+      },
+      {
+        "file": "project/.eslintrc.json",
+        "hash": "1482810769789930301"
+      },
+      {
+        "file": "project/.gitignore",
+        "hash": "16877376182141465221"
+      },
+      {
+        "file": "project/.prettierignore",
+        "hash": "16448050467312557263"
+      },
+      {
+        "file": "project/.prettierrc",
+        "hash": "16267754514737964994"
+      },
+      {
+        "file": "project/README.md",
+        "hash": "7711880445699259201"
+      },
+      {
+        "file": "project/jest.config.ts",
+        "hash": "8278665120952369726"
+      },
+      {
+        "file": "project/jest.preset.js",
+        "hash": "4185368808439573122"
+      },
+      {
+        "file": "project/nx.json",
+        "hash": "97794255958484609"
+      },
+      {
+        "file": "project/package-lock.json",
+        "hash": "9305907869709603101"
+      },
+      {
+        "file": "project/package.json",
+        "hash": "9554456559539735815"
+      },
+      {
+        "file": "project/tsconfig.base.json",
+        "hash": "16936441711144470533"
+      },
+      {
+        "file": "specification.excalidraw",
+        "hash": "11288899538329450780"
+      },
+      {
+        "file": "specification.png",
+        "hash": "10297871214959957616"
+      }
+    ]
+  }
+}
