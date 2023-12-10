@@ -29,11 +29,13 @@ export class BlogUserEntity implements UserAuth, Entity<string> {
   }
 
   public populate(data: UserAuth): void {
+    this.id = data.id;
     this.email = data.email;
     this.firstname = data.firstname;
     this.lastname = data.lastname;
     this.avatar = data.avatar;
     this.registeredAt = data.registeredAt;
+    this.passwordHash = data.passwordHash
   }
 
   public async setPassword(password: string): Promise<BlogUserEntity> {
